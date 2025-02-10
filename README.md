@@ -24,3 +24,5 @@
 📫 **Contactame en:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JuanEscobar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juanesc396/)
+
+**Email:** juanesc396@gmail.com  
