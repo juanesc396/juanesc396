@@ -2,7 +2,7 @@
 
 💻 Data Engineer Trainee | Algoritmic Trader  
 📊 Apasionado por los datos, Inteligencia Artificial y Finanzas.  
-🚀 Actualmente especializándome en Ingeniería de Datos y optimizando el rendimiento de mi bot de trading algorítmico para criptomonedas..
+🚀 Actualmente especializándome en Ingeniería de Datos y optimizando el rendimiento de mi bot de trading algorítmico para criptomonedas.
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL, Bash.
