@@ -20,6 +20,9 @@
 
 🔹 **[Análisis de Bitcoin y noticias en tiempo real](https://github.com/juanesc396/crypto-monitor)** – WebSocket, Prometheus, Grafana, Kafka, Postgres, Requests.
 
+🔹 **[Finanzas](https://github.com/juanesc396/finance)** – Pypfopt, yfinance
+
+
 
 📫 **Contactame en:**
 
