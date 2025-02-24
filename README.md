@@ -14,7 +14,7 @@
 - **Tools:** Docker, Jupyter Notebook, Power BI, Excel.
 
 ### 📌 Proyectos Destacados
-🔹 **Bot de Trading Algorítmico** – Python, WebSocket, ELK Stack, Kafka, Postgres.
+🔹 **[Bot de Trading Algorítmico](https://github.com/juanesc396/trading-bot)** – Python, WebSocket, ELK Stack, Kafka, Postgres.
 
 🔹 **[Análisis de noticias con NLP](https://github.com/juanesc396/newspaper-analytics)** – Uso de NLP, Scrapy, Airflow, EC2, Plotly/Dash.
 
