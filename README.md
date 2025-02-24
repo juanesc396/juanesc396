@@ -29,4 +29,4 @@
 
 **[LinkedIn](https://www.linkedin.com/in/juanesc396/)**
 
-**Email:** juanesc396@gmail.com
+**juanesc396@gmail.com**
