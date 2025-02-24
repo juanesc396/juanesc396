@@ -8,10 +8,11 @@
 - **Languages:** Python, SQL, Bash.
 - **Big Data:** Apache Spark, Airflow, Kafka.
 - **Cloud:** AWS.
+- **BI:** Power BI, Excel
 - **Scraping:** Scrapy, Beautiful Soup, Requests, Xpath.
 - **Machine Learning:** SpaCy (NLP), Keras (LSTM).
 - **Graphs:** Grafana, Plotly.
-- **Tools:** Docker, Jupyter Notebook, Power BI, Excel.
+- **Tools:** Docker, Jupyter Notebook.
 
 ### 📌 Proyectos Destacados
 🔹 **[Bot de Trading Algorítmico](https://github.com/juanesc396/trading-bot)** – Python, WebSocket, ELK Stack, Kafka, Postgres.
@@ -26,6 +27,6 @@
 
 📫 **Contactame en:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JuanEscobar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/juanesc396/)
+**[LinkedIn](https://www.linkedin.com/in/juanesc396/)**
 
-**Email:** juanesc396@gmail.com  
+**Email:** juanesc396@gmail.com
