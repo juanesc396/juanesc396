@@ -21,9 +21,9 @@
 
 🔹 **[Bitcoin and Real-Time News Analysis](https://github.com/juanesc396/crypto-monitor)** – WebSocket, Prometheus, Grafana, Kafka, Postgres, Requests.  
 
-🔹 **[Finance](https://github.com/juanesc396/finance)** – Pypfopt, yfinance.  
+🔹 **[Finance](https://github.com/juanesc396/finance)** – Pypfopt, yfinance, statsmodels.
 
-🔹 **[Business Intelligence](https://github.com/juanesc396/BI)** – Pypfopt, yfinance.  
+🔹 **[Business Intelligence](https://github.com/juanesc396/BI)** – Power BI.  
 
 📫 **Contact me at:**  
 
