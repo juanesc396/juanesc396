@@ -2,7 +2,7 @@
 
 💻 Data Engineer Trainee | Algorithmic Trader  
 📊 Passionate about Automatization, Data, Artificial Intelligence, and Finance.
-🚀 Currently specializing in Data Engineering and Analysis while optimizing the performance of my algorithmic trading bot for cryptocurrencies.  
+🚀 Currently specializing in Data Engineering and Analysis while optimizing the performance of my algorithmic trading bots for cryptocurrencies.  
 
 ### 🛠️ Tech Stack  
 - **Languages:** Python, SQL, Bash.  
@@ -13,6 +13,7 @@
 - **Machine Learning:** SpaCy (NLP), Keras (LSTM).
 - **Graphs:** Grafana, Plotly.
 - **Tools:** Docker, Jupyter Notebook.
+- **LLM and Agents:** Spec Driven Development. Skills, Agents
 
 ### 📌 Featured Repositories  
 🔹 **[Algorithmic Trading Bot](https://github.com/juanesc396/trading-bot)** – Python, WebSocket, ELK Stack, Kafka, Postgres.  
