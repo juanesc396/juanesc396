@@ -1,18 +1,18 @@
 ## 👋 Hi! I'm Juan Escobar  
 
 💻 Data Engineer Trainee | Algorithmic Trader  
-📊 Passionate about data, Artificial Intelligence, and Finance.  
+📊 Passionate about Automatization, Data, Artificial Intelligence, and Finance.
 🚀 Currently specializing in Data Engineering and Analysis while optimizing the performance of my algorithmic trading bot for cryptocurrencies.  
 
 ### 🛠️ Tech Stack  
 - **Languages:** Python, SQL, Bash.  
-- **Big Data:** Apache Spark, Airflow, Kafka.  
-- **Cloud:** AWS.  
-- **BI:** Power BI, Excel.  
-- **Scraping:** Scrapy, Beautiful Soup, Requests, Xpath.  
-- **Machine Learning:** SpaCy (NLP), Keras (LSTM).  
-- **Graphs:** Grafana, Plotly.  
-- **Tools:** Docker, Jupyter Notebook.  
+- **Big Data:** Apache Spark, Airflow, Kafka.
+- **Cloud:** AWS.
+- **BI:** Power BI, Excel.
+- **Scraping:** Scrapy, Beautiful Soup, Requests, Xpath.
+- **Machine Learning:** SpaCy (NLP), Keras (LSTM).
+- **Graphs:** Grafana, Plotly.
+- **Tools:** Docker, Jupyter Notebook.
 
 ### 📌 Featured Repositories  
 🔹 **[Algorithmic Trading Bot](https://github.com/juanesc396/trading-bot)** – Python, WebSocket, ELK Stack, Kafka, Postgres.  
